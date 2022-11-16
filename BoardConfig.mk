@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-PLATFORM_PATH := device/bqru/BQru-5535L
+PLATFORM_PATH := device/BQru/BQru5535L
 
 #LC_ALL=C
 ALLOW_MISSING_DEPENDENCIES=true
@@ -50,7 +50,7 @@ TARGET_BOARD_PLATFORM := SC9863A
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true 
-TARGET_BOOTLOADER_BOARD_NAME := BQru-5535L
+TARGET_BOOTLOADER_BOARD_NAME := BQru5535L
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 41943040
