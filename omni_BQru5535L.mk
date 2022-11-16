@@ -19,7 +19,7 @@ PRODUCT_RELEASE_NAME := BQru5535L
 
 # Inherit from this configs
 $(call inherit-product, build/target/product/embedded.mk)
-$(call inherit-product, build/target/product/core_64_bit.mk)
+#$(call inherit-product, build/target/product/core_64_bit.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier. This must come after all inclusions.
