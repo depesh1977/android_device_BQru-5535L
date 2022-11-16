@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := BQru-5535L
+PRODUCT_RELEASE_NAME := BQru5535L
 
 # Inherit from this configs
 $(call inherit-product, build/target/product/embedded.mk)
@@ -38,10 +38,10 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 #PRODUCT_PROPERTY_OVERRIDES := ro.treble.enabled=true
 
-PRODUCT_DEVICE := BQru-5535L
-PRODUCT_NAME := omni_BQru-5535L
+PRODUCT_DEVICE := BQru5535L
+PRODUCT_NAME := omni_BQru5535L
 PRODUCT_BRAND := BQru
-PRODUCT_MODEL := BQru-5535L
+PRODUCT_MODEL := BQru5535L
 PRODUCT_MANUFACTURER := BQru
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
