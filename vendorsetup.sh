@@ -1,1 +1,1 @@
-add_lunch_combo omni_BQru-5535L-eng
+add_lunch_combo omni_BQru5535L-eng
