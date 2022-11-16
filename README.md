@@ -1,0 +1,1 @@
+# android_device_BQru-5535L
